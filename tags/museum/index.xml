@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Yihsiu&#39;s Blog</title>
-    <link>https://yihsiulee.github.io/blog/</link>
-    <description>Recent content in Blog on Yihsiu&#39;s Blog</description>
+    <title>museum on Yihsiu&#39;s Blog</title>
+    <link>https://yihsiulee.github.io/tags/museum/</link>
+    <description>Recent content in museum on Yihsiu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://yihsiulee.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yihsiulee.github.io/tags/museum/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Tests</title>
-      <link>https://yihsiulee.github.io/blog/goisforlovers/</link>
-      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://yihsiulee.github.io/blog/goisforlovers/</guid>
-      <description>/////3YYYYYYYYY Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.</description>
-    </item>
     
     <item>
       <title>南海學園博物館群</title>
@@ -49,58 +40,6 @@
 日本和服腰帶上的印度細密畫
 在時間的長河裡，空間的轉化中，古時的民間藝術經過口述、畫作，在每個世代間流傳漫步，經過代代的累積，漸漸成了文化與傳統。然而藉由遷徙、貿易、戰爭，這些原本固守在一特定區域的文化，便如同水滴漣漪的開始向外散播，當兩個漣漪碰撞，發現彼此雖處不同時空背景，卻有文化相似處（世界樹、櫻花樹），經過文化交相互堆疊融合後，結合出多元豐富，創新與傳統兼具的藝術品。
 世界之樹展覽，雖跨越國界與時間，但有著相同的主題，樹，成了不同時間不同人們的共同語彙，一直以來，樹維持著生生不息的意象，也使現代人反思，該如何維護代代生命的永續發展。</description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>https://yihsiulee.github.io/blog/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://yihsiulee.github.io/blog/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>KKK</title>
-      <link>https://yihsiulee.github.io/blog/aaa/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://yihsiulee.github.io/blog/aaa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://yihsiulee.github.io/blog/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://yihsiulee.github.io/blog/hugoisforlovers/</guid>
-      <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
-
-&lt;p&gt;Go to &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the
-appropriate version for your os and architecture.&lt;/p&gt;
-
-&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;
-
-&lt;p&gt;More complete instructions are available at &lt;a href=&#34;https://yihsiulee.github.io/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://yihsiulee.github.io/blog/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://yihsiulee.github.io/blog/migrate-from-jekyll/</guid>
-      <description>&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
-
-&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.
-With Jekyll, something that looked like&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/
-    ▾ images/
-        logo.png
-&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
   </channel>
