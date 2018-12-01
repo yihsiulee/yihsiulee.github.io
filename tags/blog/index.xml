@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BLOG on Yihsiu&#39;s Blog</title>
+    <link>https://yihsiulee.github.io/tags/blog/</link>
+    <description>Recent content in BLOG on Yihsiu&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yihsiulee.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>架設BLOG，真的hen簡單 趴萬</title>
+      <link>https://yihsiulee.github.io/blog/blog-1/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yihsiulee.github.io/blog/blog-1/</guid>
+      <description>架設BLOG，真的hen簡單 趴萬 太閒是不是？弄blog幹嘛？ 是 身為一位中華台北的大學生，很多時間是合情合理，加上坊間各個文章存放處也沒啥大整合，還是自己架一個什麼雜七雜八都可以丟進來的blog比較方便，所以就來紀錄一下弄一個blog的過程吧。
+由於github上只能架靜態的網站，就選了一個新手上路方便做的HUGO來架。
+HUGO，用google爸爸推出的ＧＯ語言寫的靜態網頁生成模板，優點族繁不及備載，有興趣可以自己去科普，不過最方便的還是能直接吃markdown檔啦，直接把以前寫好文章作業都丟進去就好，好la，開始吧。
+基本步驟  首先，你要先從HUGO網站裡，千千萬萬種模板中，挑一個你比較尬藝的主題，這步驟大概是整個架設流程裡最難的。 osx:使用mac的捧友先開終端機安裝Homebrew 。
+windows：使用windows的捧友，就去101裡面的apple store充值一下信仰。
+好啦，我查好像是可以安裝Chocolatey，不過那連結那麼多英文我猜應該也是懶得看XD，就開啟cmd把底下這個丟進去按enter吧。
+@&amp;quot;%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe&amp;quot; -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command &amp;quot;iex ((New-Object System.Net.WebClient).DownloadString(&#39;https://chocolatey.org/install.ps1&#39;))&amp;quot; &amp;amp;&amp;amp; SET &amp;quot;PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin&amp;quot;  裝好後繼續在終端機輸入指令安裝HUGO （以下步驟要會基本的cmd）
+brew install hugo //osx choco install hugo //windows  cd 到你想放這專案的資料夾 建一個hugo專案la hugo new site mysite  然後進到你專案內的 theme 資料夾，從github上複製你選的模板丟進去
+可以直接git clone+github網址（要有裝git喔）或者download zip再丟進去
+這我隨便選的模板 git clone https://github.com/parsiya/Hugo-Octopress  警告：這段有點饒舌，請小心服用
+把剛剛複製進themes資料夾中的 static 和 layouts 資料夾複製，丟到最外層取代那裡的 static 和 layouts
+ 回到終端機，cd 到你的專案資料夾，輸入：</description>
+    </item>
+    
+  </channel>
+</rss>

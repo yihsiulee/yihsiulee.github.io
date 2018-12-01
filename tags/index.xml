@@ -6,9 +6,46 @@
     <description>Recent content in Tags on Yihsiu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://yihsiulee.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BLOG</title>
+      <link>https://yihsiulee.github.io/tags/blog/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yihsiulee.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GITHUB</title>
+      <link>https://yihsiulee.github.io/tags/github/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yihsiulee.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HUGO</title>
+      <link>https://yihsiulee.github.io/tags/hugo/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yihsiulee.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taiwan</title>
+      <link>https://yihsiulee.github.io/tags/taiwan/</link>
+      <pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yihsiulee.github.io/tags/taiwan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>museum</title>
@@ -20,20 +57,11 @@
     </item>
     
     <item>
-      <title>test</title>
-      <link>https://yihsiulee.github.io/tags/test/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>前端</title>
+      <link>https://yihsiulee.github.io/tags/%E5%89%8D%E7%AB%AF/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://yihsiulee.github.io/tags/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tutorial</title>
-      <link>https://yihsiulee.github.io/tags/tutorial/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://yihsiulee.github.io/tags/tutorial/</guid>
+      <guid>https://yihsiulee.github.io/tags/%E5%89%8D%E7%AB%AF/</guid>
       <description></description>
     </item>
     

@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yihsiulee.github.io/about/</loc>
-    <lastmod>2018-11-27T00:00:00+00:00</lastmod>
+    <loc>https://yihsiulee.github.io/blog/blog-1/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yihsiulee.github.io/blog/goisforlovers/</loc>
-    <lastmod>2018-11-20T00:00:00+00:00</lastmod>
+    <loc>https://yihsiulee.github.io/about/</loc>
+    <lastmod>2018-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,60 +18,55 @@
   </url>
   
   <url>
-    <loc>https://yihsiulee.github.io/itemized/item1/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yihsiulee.github.io/itemized/item2/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yihsiulee.github.io/itemized/item3/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yihsiulee.github.io/itemized/item4/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+    <loc>https://yihsiulee.github.io/blog/aaa/</loc>
   </url>
   
   <url>
     <loc>https://yihsiulee.github.io/blog/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yihsiulee.github.io/blog/aaa/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://yihsiulee.github.io/blog/goisforlovers/</loc>
   </url>
   
   <url>
     <loc>https://yihsiulee.github.io/blog/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://yihsiulee.github.io/blog/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yihsiulee.github.io/categories/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+    <loc>https://yihsiulee.github.io/itemized/item1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yihsiulee.github.io/itemized/item2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yihsiulee.github.io/itemized/item3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yihsiulee.github.io/itemized/item4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yihsiulee.github.io/tags/blog/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yihsiulee.github.io/blog/</loc>
-    <lastmod>2018-11-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yihsiulee.github.io/categories/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -80,37 +75,37 @@
   </url>
   
   <url>
-    <loc>https://yihsiulee.github.io/categories/go/</loc>
-    <lastmod>2018-11-20T00:00:00+00:00</lastmod>
+    <loc>https://yihsiulee.github.io/tags/github/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yihsiulee.github.io/categories/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://yihsiulee.github.io/tags/hugo/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yihsiulee.github.io/itemized/</loc>
-    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yihsiulee.github.io/categories/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yihsiulee.github.io/tags/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yihsiulee.github.io/tags/taiwan/</loc>
+    <lastmod>2018-11-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yihsiulee.github.io/</loc>
-    <lastmod>2018-11-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -127,20 +122,14 @@
   </url>
   
   <url>
-    <loc>https://yihsiulee.github.io/tags/test/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://yihsiulee.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yihsiulee.github.io/categories/test/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yihsiulee.github.io/tags/tutorial/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://yihsiulee.github.io/categories/%E8%A9%A6%E8%A9%A6%E6%96%B0%E7%8E%A9%E5%85%B7/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
