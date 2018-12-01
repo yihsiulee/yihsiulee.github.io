@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yihsiu&#39;s Blog</title>
-    <link>https://yihsiulee.github.io/</link>
-    <description>Recent content on Yihsiu&#39;s Blog</description>
+    <title>博物館探索 on Yihsiu&#39;s Blog</title>
+    <link>https://yihsiulee.github.io/categories/%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8E%A2%E7%B4%A2/</link>
+    <description>Recent content in 博物館探索 on Yihsiu&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://yihsiulee.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yihsiulee.github.io/categories/%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8E%A2%E7%B4%A2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,26 +30,6 @@
 總之我就是把課堂的心得丟上來這裡，你看著可能會想說（如果有看的話），你寫這些東西交得出去嗎！？？
 不，你現在看到的是撿到槍版本，反正個人blog應該能寫一些比較接近實話的東西吧，大概是這樣。 但老師助教人是很不錯啦，很認真上課，在這裡附上來去博物館探索FB粉專的連結，有興趣修可以去看看。
 That&amp;rsquo;s all.</description>
-    </item>
-    
-    <item>
-      <title>架設BLOG，真的hen簡單 趴萬</title>
-      <link>https://yihsiulee.github.io/blog/blog-1/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://yihsiulee.github.io/blog/blog-1/</guid>
-      <description>太閒是不是？弄blog幹嘛？ 是 身為一位中華台北的大學生，很多時間是合情合理，加上坊間各個文章存放處也沒啥大整合，還是自己架一個什麼雜七雜八都可以丟進來的blog比較方便，所以就來紀錄一下弄一個blog的過程吧。
-由於github上只能架靜態的網站，就選了一個新手上路方便做的HUGO來架。
-HUGO，用google爸爸推出的ＧＯ語言寫的靜態網頁生成模板，優點族繁不及備載，有興趣可以自己去科普，不過最方便的還是能直接吃markdown檔啦，直接把以前寫好文章作業都丟進去就好，好la，開始吧。
-基本步驟  首先，你要先從HUGO網站裡，千千萬萬種模板中，挑一個你比較尬藝的主題，這步驟大概是整個架設流程裡最難的。 osx:使用mac的捧友先開終端機安裝Homebrew 。
-windows：使用windows的捧友，就去101裡面的apple store充值一下信仰。
-好啦，我查好像是可以安裝Chocolatey，不過那連結那麼多英文我猜應該也是懶得看XD，就開啟cmd把底下這個丟進去按enter吧。
-@&amp;quot;%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe&amp;quot; -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command &amp;quot;iex ((New-Object System.Net.WebClient).DownloadString(&#39;https://chocolatey.org/install.ps1&#39;))&amp;quot; &amp;amp;&amp;amp; SET &amp;quot;PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin&amp;quot;  裝好後繼續在終端機輸入指令安裝HUGO （以下步驟要會基本的cmd）
-brew install hugo //osx choco install hugo //windows  cd 到你想放這專案的資料夾 建一個hugo專案la hugo new site mysite  然後進到你專案內的 theme 資料夾，從github上複製你選的模板丟進去
-可以直接git clone+github網址（要有裝git喔）或者download zip再丟進去
-這我隨便選的模板 git clone https://github.com/parsiya/Hugo-Octopress  警告：這段有點饒舌，請小心服用
-把剛剛複製進themes資料夾中的 static 和 layouts 資料夾複製，丟到最外層取代那裡的 static 和 layouts
- 回到終端機，cd 到你的專案資料夾，輸入：</description>
     </item>
     
     <item>
@@ -130,132 +110,6 @@ brew install hugo //osx choco install hugo //windows  cd 到你想放這專案�
 （親攝於二条城）建於西元1600年初期，內部可參觀當時大政奉還的景象（親攝於大阪通天閣內）內部為通天閣興建史與觀景台
 關於博物館探索這門課
 其實關於參觀展覽與博物館，我已有一種既定的形式，看看展覽物品，想一下與主題的關聯性，想想參展者或主辦想傳達的訊息，有時甚至會想破頭，鑽牛角尖，但我不想被這種自己給的框架限制住，也許能更輕鬆，藉由這堂課引導，尋找別的視角來探索博物館，或者窺探這社會。</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://yihsiulee.github.io/blog/aaa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yihsiulee.github.io/blog/aaa/</guid>
-      <description>+++ author = &amp;quot;Theme author&amp;quot; categories = [&amp;quot;test&amp;quot;] tags = [&amp;quot;test&amp;quot;] date = &amp;quot;2014-09-28&amp;quot; description = &amp;quot;Learn how to create a theme on Hugo&amp;quot; featured = &amp;quot;pic03.jpg&amp;quot; featuredalt = &amp;quot;Pic 3&amp;quot; featuredpath = &amp;quot;date&amp;quot; linktitle = &amp;quot;&amp;quot; title = &amp;quot;KKK&amp;quot; type = &amp;quot;post&amp;quot; +++  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://yihsiulee.github.io/blog/creating-a-new-theme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yihsiulee.github.io/blog/creating-a-new-theme/</guid>
-      <description>+++ author = &amp;quot;Theme author&amp;quot; categories = [&amp;quot;Hugo&amp;quot;] tags = [&amp;quot;tutorial&amp;quot;] date = &amp;quot;2014-09-28&amp;quot; description = &amp;quot;Learn how to create a theme on Hugo&amp;quot; featured = &amp;quot;pic03.jpg&amp;quot; featuredalt = &amp;quot;Pic 3&amp;quot; featuredpath = &amp;quot;date&amp;quot; linktitle = &amp;quot;&amp;quot; title = &amp;quot;Creating a New Theme&amp;quot; type = &amp;quot;post&amp;quot; +++  Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://yihsiulee.github.io/blog/goisforlovers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yihsiulee.github.io/blog/goisforlovers/</guid>
-      <description>+++ author = &amp;quot;Unknown Author&amp;quot; categories = [&amp;quot;Go&amp;quot;] date = &amp;quot;2018-11-20&amp;quot; description = &amp;quot;&amp;quot; featured = &amp;quot;pic02.jpg&amp;quot; featuredalt = &amp;quot;Pic 2&amp;quot; featuredpath = &amp;quot;date&amp;quot; linktitle = &amp;quot;&amp;quot; title = &amp;quot;Tests&amp;quot; type = &amp;quot;post&amp;quot; +++  /////3YYYYYYYYY Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://yihsiulee.github.io/blog/hugoisforlovers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yihsiulee.github.io/blog/hugoisforlovers/</guid>
-      <description>&lt;pre&gt;&lt;code&gt;+++
-author = &amp;quot;Hugo author&amp;quot;
-categories = [&amp;quot;Hugo&amp;quot;]
-date = &amp;quot;2014-04-02&amp;quot;
-description = &amp;quot;&amp;quot;
-featured = &amp;quot;pic01.jpg&amp;quot;
-featuredalt = &amp;quot;Pic 1&amp;quot;
-featuredpath = &amp;quot;date&amp;quot;
-linktitle = &amp;quot;&amp;quot;
-title = &amp;quot;Getting Started with Hugo&amp;quot;
-type = &amp;quot;post&amp;quot;
-
-+++
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
-
-&lt;p&gt;Go to &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the
-appropriate version for your os and architecture.&lt;/p&gt;
-
-&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;
-
-&lt;p&gt;More complete instructions are available at &lt;a href=&#34;https://yihsiulee.github.io/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://yihsiulee.github.io/blog/migrate-from-jekyll/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yihsiulee.github.io/blog/migrate-from-jekyll/</guid>
-      <description>&lt;pre&gt;&lt;code&gt;+++
-author = &amp;quot;Migrating author&amp;quot;
-categories = [&amp;quot;Hugo&amp;quot;, &amp;quot;Jekyll&amp;quot;]
-date = &amp;quot;2014-03-10&amp;quot;
-description = &amp;quot;&amp;quot;
-featured = &amp;quot;&amp;quot;
-featuredalt = &amp;quot;&amp;quot;
-featuredpath = &amp;quot;&amp;quot;
-linktitle = &amp;quot;&amp;quot;
-title = &amp;quot;Migrate to Hugo from Jekyll&amp;quot;
-type = &amp;quot;post&amp;quot;
-
-+++
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
-
-&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.
-With Jekyll, something that looked like&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/
-    ▾ images/
-        logo.png
-&lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://yihsiulee.github.io/itemized/item1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yihsiulee.github.io/itemized/item1/</guid>
-      <description> +++ type = &amp;quot;itemized&amp;quot; author = &amp;quot;George Jetson&amp;quot; date = &amp;quot;2017-06-22&amp;quot; title = &amp;quot;Fancy App 1&amp;quot; description = &amp;quot;Application for doing cool things.&amp;quot; featured = &amp;quot;&amp;quot; featuredpath = &amp;quot;&amp;quot; featuredalt = &amp;quot;&amp;quot; categories = [&amp;quot;&amp;quot;] linktitle = &amp;quot;&amp;quot; format = &amp;quot;Android&amp;quot; link = &amp;quot;#&amp;quot; +++  App 1 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://yihsiulee.github.io/itemized/item2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yihsiulee.github.io/itemized/item2/</guid>
-      <description> +++ type = &amp;quot;itemized&amp;quot; author = &amp;quot;George Jetson&amp;quot; date = &amp;quot;2017-06-22&amp;quot; title = &amp;quot;Fancy App 2&amp;quot; description = &amp;quot;Application for doing cool things.&amp;quot; featured = &amp;quot;&amp;quot; featuredpath = &amp;quot;&amp;quot; featuredalt = &amp;quot;&amp;quot; categories = [&amp;quot;&amp;quot;] linktitle = &amp;quot;&amp;quot; format = &amp;quot;Golang&amp;quot; link = &amp;quot;#&amp;quot; +++  App 2 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://yihsiulee.github.io/itemized/item3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yihsiulee.github.io/itemized/item3/</guid>
-      <description> +++ type = &amp;quot;itemized&amp;quot; author = &amp;quot;George Jetson&amp;quot; date = &amp;quot;2017-06-22&amp;quot; title = &amp;quot;Fancy App 3&amp;quot; description = &amp;quot;Application for doing cool things.&amp;quot; featured = &amp;quot;&amp;quot; featuredpath = &amp;quot;&amp;quot; featuredalt = &amp;quot;&amp;quot; categories = [&amp;quot;&amp;quot;] linktitle = &amp;quot;&amp;quot; format = &amp;quot;Android&amp;quot; link = &amp;quot;#&amp;quot; +++  App 3 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://yihsiulee.github.io/itemized/item4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yihsiulee.github.io/itemized/item4/</guid>
-      <description> +++ type = &amp;quot;itemized&amp;quot; author = &amp;quot;George Jetson&amp;quot; date = &amp;quot;2017-06-22&amp;quot; title = &amp;quot;Fancy App 4&amp;quot; description = &amp;quot;Application for doing cool things again.&amp;quot; featured = &amp;quot;&amp;quot; featuredpath = &amp;quot;&amp;quot; featuredalt = &amp;quot;&amp;quot; categories = [&amp;quot;&amp;quot;] linktitle = &amp;quot;&amp;quot; format = &amp;quot;iOS&amp;quot; link = &amp;quot;#&amp;quot; +++  App 4 </description>
     </item>
     
   </channel>
